@@ -10,5 +10,5 @@ Ich heiße Muhammed und komme aus der Türkei.
 - Schwarzer Pfeffer nach Geschmack
 - 2 Tassen Wasser
 
-### Tastatur: externes, integriertes oder virtuelles Gerät bzw. Hilfsmittel zur manuellen Eingabe von Zeichen (Buchstaben, Zahlen, Satzzeichen o. Ä.) sowie zur Ausführung bestimmter Befehle
-
+### Tastatur:
+externes, integriertes oder virtuelles Gerät bzw. Hilfsmittel zur manuellen Eingabe von Zeichen (Buchstaben, Zahlen, Satzzeichen o. Ä.) sowie zur Ausführung bestimmter Befehle
